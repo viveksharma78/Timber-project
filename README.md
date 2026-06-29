@@ -243,17 +243,6 @@ This project covers the following topics:
 
 ---
 
-# 📁 Project Structure
-
-```
-Machine_Failure_Prediction/
-│
-├── Machine_Failure_Prediction_Using_ML.ipynb
-├── predictive_maintenance_dataset.csv
-├── README.md
-└── requirements.txt
-```
-
 ---
 
 # 🚀 Future Improvements
